@@ -3,7 +3,7 @@ const dummyComments = [
     commentId: "comment1",
     tagId: "tag-1",
     startPos: 12,
-    endPos: 16,
+    endPos: 25,
     comment: "Lorem, ipsum dolor sit amet consectetur",
   },
   {
