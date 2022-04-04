@@ -2,8 +2,8 @@ const dummyComments = [
   {
     commentId: "comment1",
     tagId: "tag-1",
-    startPos: 12,
-    endPos: 25,
+    startPos: 6,
+    endPos: 26,
     comment: "Lorem, ipsum dolor sit amet consectetur",
   },
   {
